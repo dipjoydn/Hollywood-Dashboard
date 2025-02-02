@@ -16,3 +16,5 @@ A simple chart compares movie runtime with sales performance, offering insights 
 
 💰 World Sales by Movie Info
 A bar chart presents the total world sales (in $) for each movie, providing a clear breakdown of global sales performance.
+
+![Screenshot 2025-02-02 112343](https://github.com/user-attachments/assets/fcffb8f4-253d-4a06-8519-3409f3a09c7b)
